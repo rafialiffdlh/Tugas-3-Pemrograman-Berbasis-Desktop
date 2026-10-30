@@ -1,0 +1,5 @@
+Makanan|Ayam|15000.0|utama
+Makanan|Ikan|25000.0|Utama
+Minuman|Teh|10000.0|dingin
+Minuman|Kopi|25000.0|panas
+Diskon|Ayam promo|10.0|Promo

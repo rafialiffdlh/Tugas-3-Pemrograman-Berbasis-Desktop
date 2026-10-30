@@ -1,0 +1,11 @@
+\n===== STRUK RESTORAN =====\nAyam                 Rp15000
+Teh                  Rp10000
+Kopi                 Rp25000
+Ayam                 Rp15000
+Ikan                 Rp25000
+Teh                  Rp10000
+Kopi                 Rp25000
+--------------------------\nSubtotal       : Rp125000
+Diskon (10,0%) : Rp12500
+Total Bayar    : Rp112500
+==========================\n
